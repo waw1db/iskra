@@ -1,0 +1,45 @@
+# Игнорировать файлы сборки и запуска
+/iskra/bin/
+/iskra/obj/
+/iskra/*.user
+/iskra/*.suo
+/iskra/*.cache
+/iskra/.vs/
+/iskra/*.vssscc
+/iskra/*.sln.docstates
+
+# NuGet (если packages/ внутри /iskra/)
+/iskra/packages/
+/iskra/*.nupkg
+/iskra/.nuget/
+
+# Резервные копии и временные файлы
+/iskra/*.bak
+/iskra/*.tmp
+/iskra/*.swp
+/iskra/*~
+
+# Файлы журналов и отладки
+/iskra/*.log
+/iskra/*.pidb
+/iskra/*.pdb
+/iskra/*.ilk
+
+# Файлы Visual Studio
+/iskra/*.VC.db
+/iskra/*.VC.VC.opendb
+
+# Файлы Rider / ReSharper
+/iskra/.idea/
+/iskra/*.sln.iml
+/iskra/*.DotSettings.user
+
+# Файлы MSBuild
+/iskra/*.msi
+/iskra/*.msix
+/iskra/*.msp
+/iskra/*.msm
+
+# Файлы тестирования
+/iskra/TestResults/
+/iskra/*.coverage
