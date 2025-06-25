@@ -13,6 +13,7 @@
 /iskra/packages/
 /iskra/*.nupkg
 /iskra/.nuget/
+packages/*
 
 # Резервные копии и временные файлы
 /iskra/*.bak
