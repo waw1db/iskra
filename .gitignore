@@ -7,6 +7,7 @@
 /iskra/.vs/
 /iskra/*.vssscc
 /iskra/*.sln.docstates
+.vs/*
 
 # NuGet (если packages/ внутри /iskra/)
 /iskra/packages/
